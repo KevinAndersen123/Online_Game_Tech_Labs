@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['s_5fradius_132',['s_radius',['../class_player.html#ac451cdf48689ac8ecb4f192638b58574',1,'Player']]],
+  ['select_133',['Select',['../_enums_8h.html#a7899b65f1ea0f655e4bbf8d2a5714285ae0626222614bdee31951d84c64e5e9ff',1,'Enums.h']]],
+  ['sendall_134',['sendAll',['../class_client.html#a2c81b60139a7218f34e7ec22e9cc5189',1,'Client::sendAll()'],['../class_server.html#a479a6fbfe4ad9ef4bdde4331d97af9ef',1,'Server::sendAll(std::shared_ptr&lt; Connection &gt; t_connection, const char *t_data, int t_totalBytes)']]],
+  ['sendchangestate_135',['sendChangeState',['../class_server.html#a250b0ec62385a984430123086087976a',1,'Server']]],
+  ['sendgameend_136',['sendGameEnd',['../class_server.html#a38ae3f7b91cd5de0e28176c1a9a0f676',1,'Server']]],
+  ['sendgamestart_137',['sendGameStart',['../class_client.html#ada5ac17a9250e1319b2e7300c2aaf7d3',1,'Client::sendGameStart()'],['../class_server.html#a993fefa682dd0858ab78929d78a06aec',1,'Server::sendGameStart(StartData &amp;t_startData, int t_index)']]],
+  ['sendgameupdate_138',['sendGameUpdate',['../class_server.html#ad0010a1540e29a85d9a577dcc421e1d2',1,'Server']]],
+  ['sendplayerupdate_139',['sendPlayerUpdate',['../class_client.html#a74f9df470ff8497b888de8d4cf898d25',1,'Client::sendPlayerUpdate()'],['../class_server.html#ac80e8a479ad5232d18fcff5cc27e4789',1,'Server::sendPlayerUpdate()']]],
+  ['sendstring_140',['sendString',['../class_client.html#a8bae6921235b8e5674e90dd68440f53c',1,'Client::sendString()'],['../class_server.html#ad277dc6f6a56bd8899a9829feb962f33',1,'Server::sendString()']]],
+  ['server_141',['Server',['../class_server.html',1,'Server'],['../class_server.html#a38bd6a55d4ecc7b2596cad27c434f99d',1,'Server::Server()']]],
+  ['server_2ecpp_142',['Server.cpp',['../_server_8cpp.html',1,'']]],
+  ['server_2eh_143',['Server.h',['../_server_8h.html',1,'']]],
+  ['setcolour_144',['setColour',['../class_player.html#a5d4aeb804ba2661915e74749c4425924',1,'Player']]],
+  ['setendgamedata_145',['setEndGameData',['../class_game.html#afe1aa82736e5c2270679d7dbe0ed1284',1,'Game']]],
+  ['setname_146',['setName',['../class_player.html#ab192a98ed61c77cdc759ac3d23abf3ba',1,'Player']]],
+  ['setposition_147',['setPosition',['../class_player.html#a6750b8a225d1324b3f7ec93926568475',1,'Player']]],
+  ['setstartofgamedata_148',['setStartofGameData',['../class_game.html#a00dc834bbe72f49ed9d0ce3cf8db7720',1,'Game']]],
+  ['setstartposition_149',['setStartPosition',['../class_player.html#aa1f533dc2d31e8b8c851a51f73fa5499',1,'Player']]],
+  ['start_150',['Start',['../_enums_8h.html#a7899b65f1ea0f655e4bbf8d2a5714285aa6122a65eaa676f700ae68d393054a37',1,'Enums.h']]],
+  ['startgamedata_151',['StartGameData',['../struct_start_game_data.html',1,'']]],
+  ['startserver_152',['startServer',['../class_game.html#aed51d3d3760d9c052cdf33144ead0fba',1,'Game']]],
+  ['state_5fchange_153',['State_change',['../_enums_8h.html#a0a80a7bc045affcf10846075b88cbca0a16ff1eacc3c5e6e7b7685162b3c33efe',1,'Enums.h']]]
+];
