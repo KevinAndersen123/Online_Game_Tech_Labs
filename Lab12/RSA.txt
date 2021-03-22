@@ -1,0 +1,26 @@
+P = 7, Q = 19
+
+N = p*q = 7 * 19 = 133
+R = (p-1)*(q-1) = (7-1)*(19-1) = 108
+
+K = 3133
+
+factors of k = 13*241
+
+E = 13
+D = 241
+
+public key (n,e), private key (n, d)
+
+Msg = run = 114 117 110
+
+Cipher = Msg^E % N = 114**13 % 133 = 114
+Cipher = Msg^E % N = 117**13 % 133 = 33
+Cipher = Msg^E % N = 110**13 % 133 = 124
+
+Msg = Cipher^D % N = 114**241 % 133 = 114
+Msg = Cipher^D % N = 33**241 % 133 = 117
+Msg = Cipher^D % N = 124**241 % 133 = 110
+
+Msg = 114 117 110 = run
+
