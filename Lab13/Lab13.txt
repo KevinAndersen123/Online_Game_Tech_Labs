@@ -1,0 +1,16 @@
+Q1: M_1 is encrypted using the key E_K.
+
+E_K is made using PR(A)(PU(B)).
+
+M_1 is then encrypted when it equals E_K(M_1).
+
+Q2: M_3 is decrypted using the key D_K.
+
+D_K is made using PR(B)(PU(A)).
+
+The message M_3 is then encrypted such that it equals D_K(M_3).
+
+Q3: Alice can encrypt the message to Bob using the formula E = (M_2^e % N ) using her private key and bob's public key to obtain the values
+
+Q3(cont.): Bob can decipher the message using his private key and Alice's public key.
+If the message is from Alice, it can be deciphered into a text message easily, if not it's not from her.
